@@ -1,6 +1,6 @@
 # Smart Contract Security Audits by Soumen
 
-Reach out for a solo smart contract security audit to me on Telegram @soumen_j
+Reach out for a solo smart contract security audit to me on Telegram [@soumen_j](https://t.me/soumen_j) 
 
 **Reports:**
 
